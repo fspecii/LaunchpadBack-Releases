@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "downloadURL": "https://github.com/fspecii/LaunchpadBack-Releases/releases/download/v1.0.0/LaunchpadBack-v1.0.0.dmg",
+  "releaseNotes": "Initial release with 7-day trial and lifetime license option.\n\n- Glass-like visual effect\n- Fast app discovery\n- Folder support\n- Customizable appearance",
+  "minimumOSVersion": "12.4"
+}
